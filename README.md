@@ -1,3 +1,9 @@
+
+  "name": "Sourabh P",
+  "email": "sourabh1111@outlook.com",
+  "password": "sp11",
+  "dob": "$date": "2000-01-01T00:00:00.000Z"
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
